@@ -1,8 +1,9 @@
-pyinstaller~=6.9.0
-pandas~=2.2.2
-openpyxl~=3.1.2
-telethon~=1.36.0
-pyqt5~=5.15.4
-markdown~=3.3.4
-requests[socks]~=2.32.3
-python-socks[asyncio]~=2.5.3
+pyinstaller>=6.9,<7
+openpyxl>=3.1.2,<4
+telethon>=1.36,<2
+PyQt5>=5.15.10,<6
+markdown>=3.3.4,<4
+requests[socks]>=2.32.3,<3
+python-socks[asyncio]>=2.5.3,<3
+Pillow>=10,<13
+lottie>=0.7,<1
